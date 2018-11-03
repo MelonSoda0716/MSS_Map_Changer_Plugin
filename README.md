@@ -17,6 +17,7 @@ Clone or DownloadからDownload ZIPをクリックしダウンロードします
 - - `マップ一覧を表示`
 
 # Note
-Steam Workshop製のマップもマップ名のみ`mapchanger.txt`に書いてください(aim_mapなどのように)。
+`mapchanger.txt`にマップを追加する場合はマップ名ごとに改行してください。  
+Steam Workshop製のマップもマップ名のみ`mapchanger.txt`に書いてください(aim_mapなどのように)。  
 Valve製の旧マップを`mapchanger.txt`に追加したい場合のみ`workshop/626513993/de_nuke`のように明示的に書いてください。  
 選択したマップがサーバ上にない場合はエラー表示されず何も起きません。  
