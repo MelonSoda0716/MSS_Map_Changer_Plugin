@@ -1,8 +1,6 @@
 # MSS_Map_Changer_Plugin
 [MelonSoda Server](https://www.melonsoda.tokyo/)で作成したマップ変更をするためのプラグインです。  
 通常のマップ、Steam Workshopのマップに対応しています。  
-  
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=862P2CYZVBPMS)
 
 # How to setup
 プラグインを利用するには`Metamod:Source`と`SourceMod`を導入する必要があります。  
